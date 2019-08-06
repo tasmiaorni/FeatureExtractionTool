@@ -1,0 +1,14 @@
+# images
+*.jpg
+*.png
+*.bmp
+*.jpeg
+*.tif
+
+# compiled  static libraries
+*.lib
+*.la
+*.a
+*.lai
+
+*.opendb
